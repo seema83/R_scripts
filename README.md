@@ -1,2 +1,1 @@
-# R_scripts
-Here I keep my R code chunks
+project_1: To_pull_rhyme_words_from_text _file.r
